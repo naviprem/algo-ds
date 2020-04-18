@@ -1,0 +1,16 @@
+{
+  "name": "my-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^6.2.0",
+    "rollup": "^1.20.3"
+  }
+}
